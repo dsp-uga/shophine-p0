@@ -47,6 +47,8 @@ Remove the trailing punctuations from the word such that first or last character
    ```
    pyspark
    ```
+### Dataset
+Dataset is available at [data/](https://github.com/dsp-uga/shophine-p0/tree/main/data) directory in the root folder of the project.
 ### Authors
 * [Shophine Sivaraja](https://github.com/shophine), Grad Student at the University of Georgia. 
 For more information, please see [CONTRIBUTORS.md](https://github.com/dsp-uga/shophine-p0/blob/main/CONTRIBUTORS.md)
