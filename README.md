@@ -33,7 +33,20 @@ Remove the trailing punctuations from the word such that first or last character
 * Output should have 5 * N entries where N is the no. of documents
 * Store the output in sp4.json file
 
+### Installation
+* [Apache Spark](https://spark.apache.org/downloads.html)
+* [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/)
+* [Jupyter Notebook](https://jupyter.org/install) is a popular application that enables you to edit, run and share Python code into a web view. It allows you to modify and re-execute parts of your code in a very flexible way. 
 
+### Running the application
+* Activate the conda environment
+   ```
+   conda activate
+   ```
+* Start Spark
+   ```
+   pyspark
+   ```
 ### Authors
 * [Shophine Sivaraja](https://github.com/shophine), Grad Student at the University of Georgia. 
 For more information, please see [CONTRIBUTORS.md](https://github.com/dsp-uga/shophine-p0/blob/main/CONTRIBUTORS.md)
