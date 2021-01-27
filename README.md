@@ -33,3 +33,10 @@ Remove the trailing punctuations from the word such that first or last character
 * Output should have 5 * N entries where N is the no. of documents
 * Store the output in sp4.json file
 
+
+### Authors
+* [Shophine Sivaraja](https://github.com/shophine), Grad Student at the University of Georgia. 
+For more information, please see [CONTRIBUTORS.md](https://github.com/dsp-uga/shophine-p0/blob/main/CONTRIBUTORS.md)
+
+
+
